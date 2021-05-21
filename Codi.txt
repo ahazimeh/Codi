@@ -1,0 +1,156 @@
+https://codi.gitbook.io/docs/07_non_pogramming/something-interesting
+
+https://codi.gitbook.io/docs/general/02_setup/01_linux
+
+https://codi.gitbook.io/docs/general/02_setup/03_git
+
+
+Github repo: https://github.com/coditech/HTML-CSS-Git-Exercise
+Gitbook: https://codi.gitbook.io/docs/03_exercises/01_html_css/html_css_git
+
+@b06-students check if this link opens for today's session : https://docs.google.com/presentation/d/1GexSs5SW6bVYEAfi5Tu_DLqtxUVyKBe6qT4Ik-NQLZk/edit#slide=id.p
+
+Blockly: https://developers.google.com/blockly
+
+https://codi.gitbook.io/docs/07_non_pogramming/group-research-illustration
+
+https://github.com/coditech/JS-Basics
+
+today: https://codi.gitbook.io/docs/07_non_pogramming/team-name-logo
+
+@b06-students You have a new task. Go over https://codi.gitbook.io/docs/03_exercises/php/basic-01 all the way to basic-04. You have till end of this week to go over them. After that you will receive a nice task that i am working on. You better get started 
+
+https://github.com/coditech/php-basics.git Here is the submission repo. Please ignore anything related to the "Submissions" folder
+
+https://github.com/coditech/php-exercise-01
+
+https://codi.gitbook.io/docs/03_exercises/05_react/weather-api
+Repo: https://github.com/coditech/weather-api
+
+https://codi.gitbook.io/docs/03_exercises/04_database/sql-exercise-master
+https://github.com/coditech/sql-exercise.git
+
+https://codi.gitbook.io/docs/04_challenges/nodejs-challenge
+and this is the repo: https://github.com/coditech/nodeJS
+
+https://expo.io/@satya164/projects/react-native-paper-example
+
+https://codi.gitbook.io/docs/04_challenges/movie-database
+Here is the repo to fork: https://github.com/coditech/MovieDB
+
+https://codi.gitbook.io/docs/04_challenges/movie-database
+Here is the repo to fork: https://github.com/coditech/MovieDB
+//image-1 reference
+
+
+@b06-students  these are the slides. You can create a copy of the slide with PVB and Lean Canvas and use it.
+https://docs.google.com/presentation/d/1cLWtKxjc6Y_Ys4n_Vywsg13ApBA3tL0SqV4YLEu8Xlk/edit#slide=id.p
+
+
+
+db exercise
+# Database Design Exercise
+
+Draw the schema of the database that fulfills the following requirements:
+
+### The Students Table
+
+The table contains the following fields: <br>
+  - name <br>
+  - date of birth <br>
+  - phone number <br>
+
+### The Address Table
+
+The table contains the following fields: <br>
+  - city <br>
+  - state <br>
+  - zipcode <br>
+
+### The Department Table
+
+The table contains the following fields: <br>
+  - name <br>
+  - code <br>
+  - phone number <br>
+
+### The Course Table
+
+The table contains the following fields: <br>
+  - name <br>
+  - description <br>
+  - credit number <br>
+
+### The Exams Table
+
+The table contains the following fields:
+  - name <br>
+  - total grade
+  - room
+
+### The Grade Report Table
+
+The table contains the following fields: <br>
+  - numeric grade <br>
+
+### Rules
+
+- Every student has one address.
+- Every student can belong to several departments.
+- Every department can have several students.
+- Every department offers several courses.
+- Every course is offered in one department.
+- A student can be enrolled in several courses.
+- A course can have several students.
+- A course can have many exams
+- An exam can only belong to one course.
+- Every student has one grade report for every exam
+
+
+
+
+Hello @b06-students, I wanted to share with you a bit of guidelines and examples of how to create a good web development trello board (or any kanban board).
+
+General guidelines
+1- Your board should have atleast the equivalent of these lists: product backlog, sprint backlog, doing,  testing and done.
+2- Cards should represent very simple tasks. If a card can be broken into multiple cards, it’s no good.
+Bad example:
+- Card Title: “Home Page”
+- Card Description: Slider, About, Contact
+Good example:
+- Card Name: “Code - Front-End - Slider”
+- Card Description: 
+on(‘/api/slider’) fetch the three best selling products. 
+Product {Image (text), Title (text), Description (text), Price (number)}
+3- Cards should have some labeling schema. One such example can be as follows: 
+- Red for important & urgent
+- Green for important & !urgent
+- Yellow for !important & !urgent
+- Orange for !important & urgent (rarely used)
+4- All urgent cards should have a deadline attached to them.
+5- All cards under doing should have a member attached to them.
+6- If you have used a specific tutorial or a specific technology, this should be mentioned in the comment.
+Testing
+1- Back-end tasks need to be tested on postman.
+2- Organization tasks need to be tested with team or client.
+3- Research tasks need to be tested with mentor.
+4- Front-end tasks need to be tested with back-end tasks.
+Sample Boards
+1- https://trello.com/b/pgaLEWmv/zsample-team-board
+2- https://trello.com/b/IGLmdzgt/typical-web-app-board
+3- https://trello.com/b/Tg7SDf5W/software-development-web-app-ios-app-android-app
+
+
+Here is the git repo of the contact list app. I will definetly restructure properly later on and push the changes again.
+https://github.com/coditech/ContactListApp-B06
+
+https://docs.google.com/presentation/d/1E9KgPtQ5p95xgtZooHqjhtFkLUrzcB_zZZafBLSVAAM/edit?usp=sharing
+
+@b06-students this is the material of RN session we did today: https://drive.google.com/file/d/1RR3rECgCPd0ukVlz7ysg4lCjv_48wGDb/view?usp=sharing
+
+https://drive.google.com/file/d/1T4FHwececAz388Ki6PhrnpDOLWTO6FRO/view?usp=sharing
+
+
+This is also the presentation: https://docs.google.com/presentation/d/10M3E-zAr14Pm33hozHcNdjrZs0iD68hAbOHTE3fQxYI/edit?usp=sharing
+
+@b06-students  slides for wordpress https://docs.google.com/presentation/d/1dxiKSxVC8syWMQfRVPuJ_8yQSLGgAJf3UJ0UjefwqAk/edit?usp=sharing
